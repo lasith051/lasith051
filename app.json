@@ -1,5 +1,5 @@
 {
-  "name": "LARA-MD",
+  "name": "LASITH-MD",
   "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
   "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
   "keywords": ["bot"],
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "0H1BVLZL#zr7Ii25XJ7Fokd1k6WuyIDYVmtpxGq4560rA2IcN3yc",
       "required": true,
       "value": ""
     },  
